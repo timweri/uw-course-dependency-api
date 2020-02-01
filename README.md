@@ -1,2 +1,2 @@
-# uw-dependensee
-Parse course dependency and store in a sqlite database
+# UW Prereq API
+Serves parsed prerequisites, corequisites, antirequisites and crosslistings data.
